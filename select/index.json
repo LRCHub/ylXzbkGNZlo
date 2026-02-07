@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BURU",
+  "base_artist": "4na",
+  "createdAt": "2026-02-07T08:56:44.831746Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Buru-Buru",
+      "artist": "Mahalini",
+      "has_synced": true,
+      "path": "select/01_Buru-Buru_Mahalini.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Buru",
+      "artist": "Timaya",
+      "has_synced": true,
+      "path": "select/02_Buru_Timaya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BURU",
+      "artist": "4na",
+      "has_synced": true,
+      "path": "select/03_BURU_4na.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aga Ma Buru (Live)",
+      "artist": "Tim Godfrey X Fearless Community",
+      "has_synced": false,
+      "path": "select/04_Aga_Ma_Buru_(Live)_Tim_Godfrey_X_Fearless_Community.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aga Ma Buru",
+      "artist": "Tim Godfrey X Fearless Community",
+      "has_synced": false,
+      "path": "select/05_Aga_Ma_Buru_Tim_Godfrey_X_Fearless_Community.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue Train (ブルートレイン Burū Torein)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_Blue_Train_(ブルートレイン_Burū_Torein)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ori Mi Ko Ni Buru (Jujju High-Life Yoruba)",
+      "artist": "Ebenezer Obey",
+      "has_synced": true,
+      "path": "select/07_Ori_Mi_Ko_Ni_Buru_(Jujju_High-Life_Yoruba)_Ebenezer_Obey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Buru Star",
+      "artist": "Jvcki Wai",
+      "has_synced": true,
+      "path": "select/08_Buru_Star_Jvcki_Wai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bylali Ka Buru",
+      "artist": "Mylmo",
+      "has_synced": false,
+      "path": "select/09_Bylali_Ka_Buru_Mylmo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Buruz Buru",
+      "artist": "MASKAK",
+      "has_synced": true,
+      "path": "select/10_Buruz_Buru_MASKAK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ayé Yi Buru",
+      "artist": "Erick Kristal",
+      "has_synced": false,
+      "path": "select/11_Ayé_Yi_Buru_Erick_Kristal.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jangan Buru Buru",
+      "artist": "Kanzer Pmc",
+      "has_synced": false,
+      "path": "select/12_Jangan_Buru_Buru_Kanzer_Pmc.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jangan Buru Buru",
+      "artist": "Fitri Carlina",
+      "has_synced": true,
+      "path": "select/13_Jangan_Buru_Buru_Fitri_Carlina.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Buru bete zerrauts",
+      "artist": "Zeker",
+      "has_synced": false,
+      "path": "select/14_Buru_bete_zerrauts_Zeker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Buru jang manis",
+      "artist": "Wagawa",
+      "has_synced": true,
+      "path": "select/15_Buru_jang_manis_Wagawa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Buru Star",
+      "artist": "NO:EL, 키드밀리, Jvcki Wai & 양홍원",
+      "has_synced": false,
+      "path": "select/16_Buru_Star_NO_EL,_키드밀리,_Jvcki_Wai_&_양홍원.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Jangan Buru-Buru (Berdua)",
+      "artist": "ryo",
+      "has_synced": false,
+      "path": "select/17_Jangan_Buru-Buru_(Berdua)_ryo.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "SZURU BURU",
+      "artist": "AGNT",
+      "has_synced": true,
+      "path": "select/18_SZURU_BURU_AGNT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BURU",
+      "artist": "4na",
+      "has_synced": false,
+      "path": "select/pl_01_BURU_4na.txt"
+    }
+  ]
+}
